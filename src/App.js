@@ -1,9 +1,11 @@
-import Share from './components/Share';
+// import Share from './components/Share';
+import ShareFiles from './components/ShareFiles';
 
 function App() {
   return (
     <div className="App">
-      <Share />
+      {/* <Share /> */}
+      <ShareFiles/>
     </div>
   );
 }
